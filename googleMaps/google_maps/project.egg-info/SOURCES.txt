@@ -1,0 +1,14 @@
+setup.py
+google_maps/__init__.py
+google_maps/items.py
+google_maps/middlewares.py
+google_maps/pipelines.py
+google_maps/settings.py
+google_maps/input/search_queries.csv
+google_maps/spiders/__init__.py
+google_maps/spiders/maps.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
